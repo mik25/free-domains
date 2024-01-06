@@ -6,7 +6,7 @@ addSubDomain({
     email: 'contact@exylium.tk',
   },
   record: {
-    CNAME: 'cname.vercel-dns.com'
+    CNAME: 'cname.vercel-dns.com'2
   },
   proxy: false
 });
